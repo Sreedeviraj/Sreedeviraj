@@ -42,17 +42,5 @@ Let's connect and collaborate! Feel free to reach out via:
 - **Tech Used:** Python, Machine Learning
 - **Description:** Achieved significant accuracy in diagnosing Parkinson's Disease using deep learning models.
 
----
-
-## 🎨 Profile Aesthetic
-
-![Profile Banner](https://via.placeholder.com/900x200?text=Welcome+to+Sreedevi's+GitHub+Profile!)
-
-Here's a snippet of my favorite quote to keep the inspiration going:
-
-> "Learning never exhausts the mind." — Leonardo da Vinci
-
----
-
-Thank you for stopping by! Feel free to check out my repositories and give your feedback. Together, let's build something amazing! 🌟
+-
  
