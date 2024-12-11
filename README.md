@@ -31,9 +31,8 @@ I'm diving deep into the MEARN stack, which includes:
 
 Let's connect and collaborate! Feel free to reach out via:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreedevi)  
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/sreedevi)
-- [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:sreedevi@example.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreedevi-r-4409bb213) 
+- [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:sreedeviraj26@example.com)
 
 ---
 
