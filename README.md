@@ -42,5 +42,5 @@ Let's connect and collaborate! Feel free to reach out via:
 - **Tech Used:** Python, Machine Learning
 - **Description:** Achieved significant accuracy in diagnosing Parkinson's Disease using deep learning models.
 
--
+
  
