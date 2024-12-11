@@ -1,4 +1,4 @@
-# Hi there, I'm Sreedevi R! 👋
+ # Hi there, I'm Sreedevi! 👋
 
 Welcome to my GitHub profile! I'm a passionate learner and aspiring developer currently exploring the exciting world of the MEARN stack. Here's a little about me:
 
@@ -31,8 +31,8 @@ I'm diving deep into the MEARN stack, which includes:
 
 Let's connect and collaborate! Feel free to reach out via:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreedevi-r-4409bb213) 
-- [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:sreedeviraj26@example.com)
+- LinkedIn: [https://www.linkedin.com/in/sreedevi](https://www.linkedin.com/in/sreedevi)  
+- Email: [sreedevi@example.com](mailto:sreedevi@example.com)
 
 ---
 
@@ -43,4 +43,3 @@ Let's connect and collaborate! Feel free to reach out via:
 - **Description:** Achieved significant accuracy in diagnosing Parkinson's Disease using deep learning models.
 
 
- 
