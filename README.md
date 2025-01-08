@@ -39,14 +39,14 @@ Let's connect and collaborate! Feel free to reach out via:
 ## 📂 Featured Projects
 
 ###  1. Deep Learning-Based Diagnosis of Parkinson's Disease
-Description: Developed a CNN model to diagnose Parkinson's disease using a gait dataset. Trained and evaluated four distinct models to improve diagnostic accuracy.
-Teamwork: Worked as part of a 4-member team, each focusing on different datasets, fostering collaboration and adaptability.
-Technologies Used: Python, TensorFlow, Keras, CNNs
-Outcome: Enhanced the accuracy of Parkinson’s diagnosis, contributing to advancements in healthcare AI.
+Developed a CNN model to diagnose Parkinson's disease using a gait dataset. Trained and evaluated four distinct models to improve diagnostic accuracy.
+Worked as part of a 4-member team, each focusing on different datasets, fostering collaboration and adaptability.
+Technologies Used are Python, TensorFlow, Keras, CNNs.
+Enhanced the accuracy of Parkinson’s diagnosis, contributing to advancements in healthcare AI.
 
 ###  2. MI-Based Microcontroller Detector Using YOLOv5
-Description: Designed a microcontroller detector leveraging YOLOv5 to detect hardware-based patterns efficiently.
-Technologies Used: Python, YOLOv5, Machine Learning
-Outcome: Improved detection accuracy and efficiency in MI-based applications.
+Designed a microcontroller detector leveraging YOLOv5 to detect hardware-based patterns efficiently.
+Technologies Used are Python, YOLOv5, Machine Learning.
+Improved detection accuracy and efficiency in MI-based applications.
  
 
