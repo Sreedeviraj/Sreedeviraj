@@ -44,8 +44,9 @@ Teamwork: Worked as part of a 4-member team, each focusing on different datasets
 Technologies Used: Python, TensorFlow, Keras, CNNs
 Outcome: Enhanced the accuracy of Parkinson’s diagnosis, contributing to advancements in healthcare AI.
 
-2. MI-Based Microcontroller Detector Using YOLOv5
+###  2. MI-Based Microcontroller Detector Using YOLOv5
 Description: Designed a microcontroller detector leveraging YOLOv5 to detect hardware-based patterns efficiently.
 Technologies Used: Python, YOLOv5, Machine Learning
 Outcome: Improved detection accuracy and efficiency in MI-based applications.
+ 
 
