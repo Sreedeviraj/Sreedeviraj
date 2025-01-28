@@ -32,7 +32,7 @@ I'm diving deep into the MEARN stack, which includes:
 Let's connect and collaborate! Feel free to reach out via:
 
 - LinkedIn: [https://www.linkedin.com/in/sreedevi-r-4409bb213](https://www.linkedin.com/in/sreedevi-r-4409bb213)  
-- Email: [sreedeviraj26@example.com](mailto:sreedeviraj26@example.com)
+- Email: [sreedeviraj26@gmail.com](mailto:sreedeviraj26@gmail.com)
 
 ---
 
