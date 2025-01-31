@@ -27,10 +27,6 @@ I'm diving deep into the MEARN stack, which includes:
 
 ---
 
----
-
----
-
 ## 📬 Connect with Me
 
 Let's connect and collaborate! Feel free to reach out via:
