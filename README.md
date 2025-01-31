@@ -1,4 +1,4 @@
- # Hi there, I'm Sreedevi! 👋
+# Hi there, I'm Sreedevi! 👋
 
 Welcome to my GitHub profile! I'm a passionate learner and aspiring developer currently exploring the exciting world of the MEARN stack. Here's a little about me:
 
@@ -27,6 +27,16 @@ I'm diving deep into the MEARN stack, which includes:
 
 ---
 
+## 📊 GitHub Stats
+
+![Sreedevi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreedevi-raj&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevi-raj&layout=compact&theme=radical)
+
+![Sreedevi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreedevi-raj&theme=radical)
+
+---
+
 ## 📬 Connect with Me
 
 Let's connect and collaborate! Feel free to reach out via:
@@ -38,15 +48,14 @@ Let's connect and collaborate! Feel free to reach out via:
 
 ## 📂 Featured Projects
 
-###  1. Deep Learning-Based Diagnosis of Parkinson's Disease
-Developed a CNN model to diagnose Parkinson's disease using a gait dataset. Trained and evaluated four distinct models to improve diagnostic accuracy.
-Worked as part of a 4-member team, each focusing on different datasets, fostering collaboration and adaptability.
-Technologies Used are Python, TensorFlow, Keras, CNNs.
-Enhanced the accuracy of Parkinson’s diagnosis, contributing to advancements in healthcare AI.
+### 1. Deep Learning-Based Diagnosis of Parkinson's Disease
+- Developed a CNN model to diagnose Parkinson's disease using a gait dataset.
+- Trained and evaluated four distinct models to improve diagnostic accuracy.
+- Worked as part of a 4-member team, each focusing on different datasets, fostering collaboration and adaptability.
+- **Technologies Used:** Python, TensorFlow, Keras, CNNs.
+- Enhanced the accuracy of Parkinson’s diagnosis, contributing to advancements in healthcare AI.
 
-###  2. MI-Based Microcontroller Detector Using YOLOv5
-Designed a microcontroller detector leveraging YOLOv5 to detect hardware-based patterns efficiently.
-Technologies Used are Python, YOLOv5, Machine Learning.
-Improved detection accuracy and efficiency in MI-based applications.
- 
-
+### 2. MI-Based Microcontroller Detector Using YOLOv5
+- Designed a microcontroller detector leveraging YOLOv5 to detect hardware-based patterns efficiently.
+- **Technologies Used:** Python, YOLOv5, Machine Learning.
+- Improved detection accuracy and efficiency in MI-based applications.
