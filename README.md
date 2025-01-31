@@ -27,14 +27,6 @@ I'm diving deep into the MEARN stack, which includes:
 
 ---
 
-## 📊 GitHub Stats
-
-![Sreedevi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreedeviraj&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedeviraj&layout=compact&theme=radical)
-
-![Sreedevi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreedeviraj&theme=radical)
-
 ---
 
 ## 📬 Connect with Me
